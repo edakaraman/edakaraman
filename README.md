@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 💻 I'm 4th year software engineering student.
--	📚 I'm developing myself on Frontend Development & Mobile App.
+-	📚 I'm developing myself on Frontend & Mobile Development.
 - 🌱 I’m currently learning React Native
 
 <div align="left">
