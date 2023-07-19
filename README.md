@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 💻 I'm 4th year software engineering student.
--	📚 I'm developing myself on Frontend Development.
-- 🌱 I’m currently learning ReactJS
+-	📚 I'm developing myself on Frontend Development & Mobile App.
+- 🌱 I’m currently learning React Native
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
