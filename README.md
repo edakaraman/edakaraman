@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 💻 I'm 4th year software engineering student.
 -	📚 I'm developing myself on Frontend & Mobile Development.
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React Native & React
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"  title="HTML5" alt="html5"  />
