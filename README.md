@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 -	📚 I'm developing myself on Frontend Development & Mobile Development.
-- 🌱 I’m currently learning NextJS & React
+- 🌱 I’m currently learning NextJS
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"  title="HTML5" alt="html5"  />
