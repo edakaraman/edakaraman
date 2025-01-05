@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:
 -->
--	📚 I'm developing myself on Frontend Development & Mobile Development.
-- 🌱 I’m currently learning NextJS
-
+-	📚 I'm developing myself on Frontend Development & Full Stack Development.
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"  title="HTML5" alt="html5"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"  title="CSS3" alt="css3"  />
@@ -18,7 +17,6 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" height="30" title="Figma" alt="figma" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="30"/> 
   <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" height="30" title="C++ " alt="c++" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="30"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="30"/> 
   <img src="https://n8n.io/images/nodes/microsoftSql.svg" height="30" alt="MSSQL" title="MS SQL" />
 </div>
